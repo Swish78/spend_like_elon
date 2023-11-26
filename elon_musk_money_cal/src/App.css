@@ -1,0 +1,10 @@
+.wealth-box {
+    padding: 15px;
+    border: 2px solid #427703;
+    border-radius: 8px;
+    background-color: #f3f3f3;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #427703;
+    text-align: center;
+}
