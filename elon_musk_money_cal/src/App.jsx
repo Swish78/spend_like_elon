@@ -1,8 +1,8 @@
 // App.jsx
 import React, { useState } from 'react';
 import './App.css';
-import Header from './components/Header.jsx';
-import Display from './components/Display.jsx';
+import Header from '/workspaces/spend_like_elon/elon_musk_money_cal/src/components/Header.jsx';
+import Display from '/workspaces/spend_like_elon/elon_musk_money_cal/src/components/display.jsx';
 
 const initialWealth = 213800000000;
 
